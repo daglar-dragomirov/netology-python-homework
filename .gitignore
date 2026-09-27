@@ -14,3 +14,11 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Данные к заданиям (выдаются на платформе, в репозиторий не кладём)
+_materials/
+_tools/
+05_files/*.csv
+05_files/*.txt
+07_pandas/*.csv
+hw06_movies/*.csv
